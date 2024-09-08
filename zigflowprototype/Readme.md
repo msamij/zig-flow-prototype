@@ -1,4 +1,4 @@
-# ZigFlow The predefined data processing pipeline.  
+# Zig-flow: A Pipeline for datasets processing and for analytics.  
 #### This project is the prototype of my FYP.
 
 
